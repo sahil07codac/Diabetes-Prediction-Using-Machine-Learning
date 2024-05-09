@@ -22,7 +22,8 @@ Outcome: Class variable (0 or 1)
 Number of Observation Units: 768,
 Variable Number: 9
 
-#Steps Followed
+# Steps Followed
+
 Data Preparation: Preprocess the raw dataset, handle missing values, and engineer relevant features.
 Model Training: Train the machine learning models using historical data and tune hyperparameters if necessary.
 Model Evaluation: Evaluate the trained models using appropriate evaluation metrics and visualize the results.
