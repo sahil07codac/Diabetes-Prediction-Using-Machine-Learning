@@ -25,6 +25,9 @@ Variable Number: 9
 # Steps Followed
 
 Data Preparation: Preprocess the raw dataset, handle missing values, and engineer relevant features.
+
 Model Training: Train the machine learning models using historical data and tune hyperparameters if necessary.
+
 Model Evaluation: Evaluate the trained models using appropriate evaluation metrics and visualize the results.
+
 Prediction: Make predictions for future windfarm power output based on the trained models and  forecasts.
